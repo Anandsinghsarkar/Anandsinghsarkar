@@ -31,6 +31,25 @@ operator@sarkar:~$ _
 
 <br/>
 
+## Contact
+
+<div align="center">
+
+<table>
+<tr>
+<td valign="middle" align="center"><img src="https://github.com/Anandsinghsarkar.png?size=240" width="170" alt="Anand Singh" /></td>
+<td valign="middle" align="center"><img src="assets/contact-card.svg" width="520" alt="Contact card: Anand Singh" /></td>
+</tr>
+</table>
+
+<a href="mailto:adminanandkumar@gmail.com"><img src="https://img.shields.io/badge/Email-adminanandkumar%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0D1117&color=00ff41" alt="email" /></a>
+<a href="https://instagram.com/a7vyronex"><img src="https://img.shields.io/badge/Instagram-%40a7vyronex-0D1117?style=for-the-badge&logo=instagram&logoColor=00ff41&labelColor=0D1117&color=00ff41" alt="instagram" /></a>
+<a href="https://t.me/XCyberKing"><img src="https://img.shields.io/badge/Telegram-%40XCyberKing-0D1117?style=for-the-badge&logo=telegram&logoColor=00ff41&labelColor=0D1117&color=00ff41" alt="telegram" /></a>
+
+</div>
+
+<br/>
+
 ## Focus
 
 <table>
