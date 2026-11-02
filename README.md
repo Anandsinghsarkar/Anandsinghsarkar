@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anandsinghsarkar/Anandsinghsarkar/main/assets/rainbow-header.svg" width="100%" alt="Anand Singh Sarkar — Website Designer, Web Developer and Bot Creator"/>
+<img src="https://raw.githubusercontent.com/Anandsinghsarkar/Anandsinghsarkar/main/assets/rainbow-header.svg?v=2" width="100%" alt="Anand Singh Sarkar — Website Designer, Web Developer and Bot Creator"/>
 
 <br/>
 
