@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="330" viewBox="0 0 1100 330">
+<defs>
+  <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#ff3b7a"><animate attributeName="stop-color" values="#ff3b7a;#ffb52e;#4ade80;#38bdf8;#a78bfa;#ff3b7a" dur="7s" repeatCount="indefinite"/></stop>
+    <stop offset="25%" stop-color="#ffb52e"><animate attributeName="stop-color" values="#ffb52e;#4ade80;#38bdf8;#a78bfa;#ff3b7a;#ffb52e" dur="7s" repeatCount="indefinite"/></stop>
+    <stop offset="50%" stop-color="#4ade80"><animate attributeName="stop-color" values="#4ade80;#38bdf8;#a78bfa;#ff3b7a;#ffb52e;#4ade80" dur="7s" repeatCount="indefinite"/></stop>
+    <stop offset="75%" stop-color="#38bdf8"><animate attributeName="stop-color" values="#38bdf8;#a78bfa;#ff3b7a;#ffb52e;#4ade80;#38bdf8" dur="7s" repeatCount="indefinite"/></stop>
+    <stop offset="100%" stop-color="#a78bfa"><animate attributeName="stop-color" values="#a78bfa;#ff3b7a;#ffb52e;#4ade80;#38bdf8;#a78bfa" dur="7s" repeatCount="indefinite"/></stop>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="5" y="5" width="1090" height="320" rx="24" fill="#0b1020" stroke="url(#rainbow)" stroke-width="3"/>
+<path d="M25 75 Q270 20 510 75 T1075 75" fill="none" stroke="url(#rainbow)" stroke-width="2" opacity=".35"/>
+<text x="55" y="65" fill="url(#rainbow)" font-family="Arial,sans-serif" font-size="31" font-weight="700" filter="url(#glow)">◈ ABOUT ME</text>
+<text x="55" y="120" fill="url(#rainbow)" font-family="Arial,sans-serif" font-size="23" font-weight="700">I'm Anand Singh Sarkar</text>
+<text x="55" y="160" fill="url(#rainbow)" font-family="Arial,sans-serif" font-size="19">A digital creator focused on designing websites, developing web</text>
+<text x="55" y="190" fill="url(#rainbow)" font-family="Arial,sans-serif" font-size="19">applications and creating useful bots. I enjoy turning ideas into</text>
+<text x="55" y="220" fill="url(#rainbow)" font-family="Arial,sans-serif" font-size="19">clean interfaces, practical tools and smooth user experiences.</text>
+<path d="M55 250 H1045" stroke="url(#rainbow)" stroke-width="2" opacity=".7"/>
+<text x="55" y="285" fill="url(#rainbow)" font-family="Arial,sans-serif" font-size="18" font-weight="700">MY APPROACH: Thoughtful Design  •  Reliable Development  •  Useful Automation</text>
+</svg>
