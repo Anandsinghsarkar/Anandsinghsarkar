@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Anand Singh Sarkar — Web Designer, Web Developer and Bot Creator</title>
+<desc id="desc">Dark premium profile banner with a continuously animated rainbow gradient border and flowing spectrum glow.</desc>
+<defs>
+  <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#ff3b5c"><animate attributeName="stop-color" values="#ff3b5c;#ffb52e;#f5f542;#35df83;#28c8ff;#8b5cf6;#ff3bba;#ff3b5c" dur="9s" repeatCount="indefinite"/></stop>
+    <stop offset="25%" stop-color="#ffb52e"><animate attributeName="stop-color" values="#ffb52e;#f5f542;#35df83;#28c8ff;#8b5cf6;#ff3bba;#ff3b5c;#ffb52e" dur="9s" repeatCount="indefinite"/></stop>
+    <stop offset="50%" stop-color="#35df83"><animate attributeName="stop-color" values="#35df83;#28c8ff;#8b5cf6;#ff3bba;#ff3b5c;#ffb52e;#f5f542;#35df83" dur="9s" repeatCount="indefinite"/></stop>
+    <stop offset="75%" stop-color="#28c8ff"><animate attributeName="stop-color" values="#28c8ff;#8b5cf6;#ff3bba;#ff3b5c;#ffb52e;#f5f542;#35df83;#28c8ff" dur="9s" repeatCount="indefinite"/></stop>
+    <stop offset="100%" stop-color="#8b5cf6"><animate attributeName="stop-color" values="#8b5cf6;#ff3bba;#ff3b5c;#ffb52e;#f5f542;#35df83;#28c8ff;#8b5cf6" dur="9s" repeatCount="indefinite"/></stop>
+  </linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#05070d"/></linearGradient>
+  <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="360" rx="28" fill="url(#panel)"/>
+<rect x="5" y="5" width="1190" height="350" rx="24" fill="none" stroke="url(#rainbow)" stroke-width="5" filter="url(#glow)"/>
+<path d="M0 285 C220 225 360 355 590 285 S970 220 1200 285" fill="none" stroke="url(#rainbow)" stroke-width="2" opacity=".38"/>
+<path d="M0 305 C220 245 360 375 590 305 S970 240 1200 305" fill="none" stroke="url(#rainbow)" stroke-width="1.5" opacity=".25"/>
+<g fill="#9ca3af" font-family="monospace" font-size="17" letter-spacing="4"><text x="72" y="72">DIGITAL CREATOR  /  PROFILE ID</text></g>
+<text x="68" y="164" fill="#f8fafc" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="800" letter-spacing="1">ANAND SINGH SARKAR</text>
+<rect x="72" y="190" width="1056" height="3" rx="2" fill="url(#rainbow)"/>
+<text x="72" y="238" fill="#e5e7eb" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="600">WEBSITE DESIGNER  •  WEB DEVELOPER  •  BOT CREATOR</text>
+<text x="72" y="292" fill="#9ca3af" font-family="monospace" font-size="17">DESIGN WITH PURPOSE  /  BUILD WITH PRECISION  /  KEEP CREATING</text>
+<circle cx="1100" cy="72" r="9" fill="url(#rainbow)"><animate attributeName="opacity" values="1;.35;1" dur="1.8s" repeatCount="indefinite"/></circle>
+</svg>
