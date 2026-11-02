@@ -22,11 +22,13 @@
 
 ---
 
-## ◈ ABOUT ME
+## 🌈 ABOUT ME
 
-I'm **Anand Singh Sarkar** — a digital creator focused on designing websites, developing web applications and creating useful bots. I enjoy turning ideas into clean interfaces, practical tools and smooth user experiences.
+<div align="center">
 
-> **My approach:** thoughtful design, reliable development and useful automation.
+<img src="https://raw.githubusercontent.com/Anandsinghsarkar/Anandsinghsarkar/main/assets/about-me-rainbow.svg?v=1" width="100%" alt="About Anand Singh Sarkar: a digital creator focused on website design, web development and useful bot creation. His approach is thoughtful design, reliable development and useful automation."/>
+
+</div>
 
 ## ✦ WHAT I DO
 
